@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/github/smimesign/certstore"
-	cms "github.com/github/smimesign/ietf-cms"
+	"github.com/brenol/smimesign/certstore"
+	cms "github.com/brenol/smimesign/ietf-cms"
 	"github.com/pkg/errors"
 )
 

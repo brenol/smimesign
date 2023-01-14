@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/github/smimesign/ietf-cms/protocol"
+	"github.com/brenol/smimesign/ietf-cms/protocol"
 )
 
 var (

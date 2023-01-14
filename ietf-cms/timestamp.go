@@ -5,9 +5,9 @@ import (
 	"crypto/x509"
 	"errors"
 
-	"github.com/github/smimesign/ietf-cms/oid"
-	"github.com/github/smimesign/ietf-cms/protocol"
-	"github.com/github/smimesign/ietf-cms/timestamp"
+	"github.com/brenol/smimesign/ietf-cms/oid"
+	"github.com/brenol/smimesign/ietf-cms/protocol"
+	"github.com/brenol/smimesign/ietf-cms/timestamp"
 )
 
 // AddTimestamps adds a timestamp to the SignedData using the RFC3161
